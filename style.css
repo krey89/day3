@@ -89,7 +89,7 @@ clear: both;
   text-align: right;
 
 }
-#computers{
+#computers,#photo{
 float: right;
   background-color: lightgray;
   padding: 10px;

@@ -26,3 +26,23 @@ div.desc {
     padding: 0px;
     text-align: center;
 }
+#nav{
+  width:180px;
+  float: left;
+  background-color: purple;
+
+}
+#nav ul{
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+#footer{
+  clear: both;
+  padding: 10px;
+  background-color: #999999;
+  color: white;
+  text-align: right;
+
+}

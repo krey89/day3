@@ -1,15 +1,14 @@
 @media screen and (max-width: 699px) and (min-width: 520px) {
   body{
 background-color: green;
-font-size: 8px;
-}
+font-size: 10px;
 
 }
 
 @media screen and (max-width: 1000px) and (min-width: 700px) {
   body {
     background-color: yellow;
-    font-size: 12;
+    font-size: 12px;
 
   }
 }
@@ -17,7 +16,7 @@ font-size: 8px;
 @media screen and (max-width:1250px)and (min-width: 1001px) {
   body {
     background-color: orange;
-    font-size: 15;
+    font-size: 15px;
 
   }
 }
@@ -25,7 +24,7 @@ font-size: 8px;
 @media screen and  (min-width: 1251px) {
   body{
     background-color: red;
-font-size: 18;
+font-size: 18px;
  }
 }
 

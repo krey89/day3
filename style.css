@@ -29,6 +29,34 @@ font-size: 15px; }
 font-size: 18px;}
 }
 
+
+div.imageGallery {
+    display: block;
+    margin: 3px;
+    border: 5px solid forestgreen;
+    float: left;
+    width: 325px;
+
+}
+
+div.imageGallery:hover {
+    border: 6px solid indianred;
+}
+
+div.imageGallery img {
+
+    padding: 10px 10px;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+div.desc {
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
 #ints{
   background-color: lightgray;
   color: white;

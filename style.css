@@ -1,31 +1,32 @@
 @media screen and (max-width: 699px) and (min-width: 520px) {
   body{
-background-color: green;
-font-size: 10px;
-
+background-color: green;}
+p{
+  font-size: 10px;
+}
 }
 
 @media screen and (max-width: 1000px) and (min-width: 700px) {
   body {
     background-color: yellow;
-    font-size: 12px;
 
-  }
+  }p{
+font-size: 13px; }
 }
 
 @media screen and (max-width:1250px)and (min-width: 1001px) {
   body {
     background-color: orange;
-    font-size: 15px;
 
-  }
+  }p{
+font-size: 15px; }
 }
 
 @media screen and  (min-width: 1251px) {
   body{
     background-color: red;
-font-size: 18px;
- }
+ }p{
+font-size: 18px;}
 }
 
 #ints{
